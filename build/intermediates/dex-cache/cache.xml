@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d72d5977ff0c468ff5c20346ae2ae460aa629af7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5a8683dbf32ebc4a28421a64a020c9dc7d1f6252/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1f33f24fab8f115c6eec49186197a5d3e52d741b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_f9729c91470afb7c682a9327ad9733ad066447c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ca56f3b3fd53e9a5538e7934b46acebf807fed4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a18d7efbb5669c82d0b2434e8badb178707406b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b7d6940a5cfa747c7d4773fbcf49d175c4c732af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_b1feb4768fc89efd1a9a4f16346f33abde2e2a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a75bcb506f8e3619014c365cb752f4c9ae0e5841">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_497616cfc9e3a76e3c27991a4a76742980069105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fd4ffba79645d0b1941b917d802d4228863822b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8377a80cf28eed7cb4cd00a47b600b5b8d7e7a9f">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2ab952e66afdd598394ec4e692b2b80772aa65f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_2e4755d9e4a7cd92021d38a695b71073ee92d948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_7650e5c48773231f3168db57007c99513231f8a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1fe6b3af4e2581c864978124f60c67647831e6a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e2266e28da790fe601f0201d614af87c160086c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_9fa4318fc104b3bc488a3ea0620b825e6b767eca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/iem/AndroidStudioProjects/VolkswagenApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_cd5b6168cf92d52df9c269d1f8be7099b1ca10c5/classes.dex" />
+    </item>
+
+</items>
