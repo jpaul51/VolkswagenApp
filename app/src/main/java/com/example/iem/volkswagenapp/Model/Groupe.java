@@ -1,5 +1,6 @@
 package com.example.iem.volkswagenapp.Model;
 
+import java.util.ArrayList;
 import java.util.Date;
 
 /**
@@ -12,6 +13,12 @@ public  class Groupe {
     int CA2015,nbEmployees;
     Date dateDeRachat;
 
+   ArrayList<Moto> lesMotos;ArrayList<Voiture> lesVoitures;
+
+
+    public Groupe() {
+
+    }
 
     public Groupe(String nom, String urlLogo, int CA2015, int nbEmployees, Date dateDeRachat) {
         this.nom = nom;
@@ -19,7 +26,11 @@ public  class Groupe {
         this.CA2015 = CA2015;
         this.nbEmployees = nbEmployees;
         this.dateDeRachat = dateDeRachat;
+
     }
+
+
+
 
     public String getNom() {
         return nom;
