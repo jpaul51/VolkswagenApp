@@ -1,9 +1,9 @@
 package com.example.iem.volkswagenapp;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
-import com.example.iem.volkswagenapp.Model.Groupe;
+import com.example.iem.volkswagenapp.Model.Group;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        Groupe volksWagen = new Groupe();
+        Group volksWagen = new Group();
 
 
     }
